@@ -1,0 +1,48 @@
+tipo_entrenamiento;parte;dificultad
+flexibilidad;parte inferior;bajo impacto
+flexibilidad;core;bajo impacto
+flexibilidad;parte superior;medio
+flexibilidad;parte inferior;medio
+flexibilidad;parte inferior;alto impacto
+flexibilidad;core;medio
+flexibilidad;core;alto impacto
+flexibilidad;parte superior;bajo impacto
+flexibilidad;parte superior;alto impacto
+Equilibrio;parte inferior;bajo impacto
+Equilibrio;core;bajo impacto
+Equilibrio;parte superior;medio
+Equilibrio;parte inferior;medio
+Equilibrio;parte inferior;alto impacto
+Equilibrio;core;medio
+Equilibrio;core;alto impacto
+Equilibrio;parte superior;bajo impacto
+Equilibrio;parte superior;alto impacto
+Cardio;parte inferior;bajo impacto
+Cardio;parte inferior;medio
+Cardio;parte inferior;alto impacto
+Cardio;parte superior;bajo impacto
+Cardio;parte superior;medio
+Cardio;parte superior;alto impacto
+Cardio;core;bajo impacto
+Cardio;core;medio
+Cardio;core;alto impacto
+Fuerza;parte inferior;bajo impacto
+Fuerza;parte inferior;medio
+Fuerza;parte inferior;alto impacto
+Fuerza;parte superior;bajo impacto
+Fuerza;parte superior;medio
+Fuerza;parte superior;alto impacto
+Fuerza;core;bajo impacto
+Fuerza;core;medio
+Fuerza;core;alto impacto
+Calentamiento;Completo;bajo impacto
+Calentamiento;Completo;medio
+Fuerza;Completo;alto impacto
+Fuerza;Completo;medio
+Fuerza;Completo;bajo impacto
+Equilibrio;Completo;alto impacto
+Equilibrio;Completo;medio
+Equilibrio;Completo;bajo impacto
+flexibilidad;Completo;alto impacto
+flexibilidad;Completo;medio
+flexibilidad;Completo;bajo impacto
