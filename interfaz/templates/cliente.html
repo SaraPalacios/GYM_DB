@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">  
+
+  <body>  
+  <form  action = "http://localhost:5000/llenado" method = 'POST' >
+  <h1>Usted no se encuentra en nuestra base de datos</h1>
+  <p>Por favor llene el siguiente formulario para poder asignarle un plan</p>
+  <label>Primer Nombre:</label>
+  <input type="text" id="Primer Nombre" name="Nombre1" placeholder="" required>
+
+  <label>Segundo Nombre:</label>
+  <input type="text" id="Segundo Nombre" name="Nombre2" placeholder="" >
+  <p>  </p>
+
+  <label>Primer Apellido:</label>
+  <input type="text" id="Primer Apellido" name="Apellido1" placeholder="" required>
+
+  <label>Segundo Apellido:</label>
+  <input type="text" id="Segundo Apellido" name="Apellido2" placeholder="" required>
+  <p>   </p>
+
+  <label>Cedula:</label>
+  <input type="number" id="Cedula" name="Cedula" placeholder="" required>
+  <p>   <p>
+
+  
+   <label>Objetivo:</label>	
+	<select name="Objetivo">
+   		<option value="1">Plan Principiante</option> 
+   		<option value="2">Plan Ganar Masa</option> 
+   		<option value="3">Plan Reduccion</option>
+	</select>
+    
+    <p>    </p>
+    <input  type="submit" value="subir información" /> 
+    
+
+</form>
+ </body> 
+</html>
